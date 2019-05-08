@@ -1,4 +1,6 @@
-# Using the Excel table, analyze the data of four thousand past Kickstarter projects.
+# KickStarter Analysis
+
+Using the Excel table, analyze the data of four thousand past Kickstarter projects.
 
 Use conditional formatting to fill each cell in the state column with a different color, depending on whether the associated campaign was "successful," "failed," "cancelled," or is currently "live".
 
